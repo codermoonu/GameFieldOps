@@ -1,0 +1,56 @@
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# IDEs and Text Editors
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# ==========================================
+# Programming Languages & Frameworks
+# ==========================================
+
+# Node.js / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+
+# .NET / C#
+bin/
+obj/
+
+# ==========================================
+# Security & Credentials (NEVER commit these)
+# ==========================================
+.env
+*.pem
+*.key
+secrets.json

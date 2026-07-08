@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-08T20:19:29.878Z",
+  "stadium": "MetLife Stadium",
+  "global_status": "active",
+  "gates": [
+    {
+      "id": "Gate A",
+      "wait_time_mins": 17,
+      "status": "flowing",
+      "crowd_density": "high"
+    },
+    {
+      "id": "Gate B",
+      "wait_time_mins": 12,
+      "status": "flowing",
+      "crowd_density": "medium"
+    }
+  ],
+  "transport": {
+    "shuttle_status": "on_schedule",
+    "parking_lots": [
+      {
+        "id": "Lot 3",
+        "capacity_pct": 100
+      },
+      {
+        "id": "Lot 5",
+        "capacity_pct": 92
+      }
+    ]
+  },
+  "sustainability": {
+    "recycling_bins_near_capacity": [
+      "Section 124"
+    ],
+    "water_stations_status": "normal"
+  },
+  "active_incidents": []
+}
