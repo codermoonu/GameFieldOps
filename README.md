@@ -1,4 +1,4 @@
-# GameField Ops ⚽
+# GameField Ops ⚽ — Intelligent Stadium Digital Twin & Decision Support Platform
 
 > **Smart Stadiums & Tournament Operations** — A real-time AI-powered stadium management platform built for the FIFA World Cup 2026 at MetLife Stadium.
 
