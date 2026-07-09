@@ -149,8 +149,6 @@ export default function LoginPage({ onLogin }) {
   const fillDemo = useCallback(
     (preset) => {
       if (isLocked) return;
-      setUsername(preset.username);
-      setPassword(preset.password);
       setSelectedHint(preset.role);
       setError('');
     },
